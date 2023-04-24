@@ -3,8 +3,6 @@
 
 Daciuk-Algorithmus zur Konstruktion eines minimalen Lexikonautomaten mit verschiedenen Erweiterungen
 
-**Authors**: Suteera Seeha (Matrikel-Nr. 11376298), Leah Michel (Matrikel-Nr: 11562460)
-
 - Folgende Erweiterungen wurden implementiert
   - **Sprache des Automaten**
   - **Graphische Darstellung**
